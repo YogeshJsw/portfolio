@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "FormEase",
+    "startDate": "December, 2023",
+    "endDate": "March, 2024",
+    "experiences": ["Developed the front-end of the FormEase website using React.js, focusing on responsive and user-friendly interfaces.", "Collaborated with cross-functional teams to integrate front-end & back-end components.","Implemented over 20 features and resolved more than 10 bugs, improving the website's overall performance."],
+    "imageSrc": "history/formease.png"
+  }
+]

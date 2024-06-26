@@ -1,0 +1,18 @@
+[
+  {
+    "title": "MyFitness-Home Workout",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an Android fitness application from scratch, combining video tutorials for each exercise with live chat and video call interactions between users and trainers.",
+    "skills": ["Kotlin", "Firebase", "XML"],
+    "demo": "https://my-personalbucket.s3.ap-south-1.amazonaws.com/MyFitness_Demo.mov",
+    "source": "https://github.com/YogeshJsw/fitness"
+  },
+  {
+    "title": "QuickNews",
+    "imageSrc": "projects/project.png",
+    "description": "Integrated Newsdata.io API to fetch and display real-time news data.Displaying news for different categories such as Sports, Technology, Science, etc.",
+    "skills": ["React.js", "HTML", "CSS","Bootstrap"],
+    "demo": "https://main--unique-fudge-9b64f9.netlify.app",
+    "source": "https://github.com/YogeshJsw/QuickNews"
+  }
+]
