@@ -7,10 +7,14 @@
   padding: 73px;
   margin-top: 129px;
   z-index: 1;
+  margin-top: 200px;
   margin-left: 10%;
   margin-right: 10%;
 }
 
+.hideHr {
+  display: none;
+}
 .title {
   color: var(--color-text);
   font-size: 35px;
@@ -71,6 +75,7 @@
     background-color: transparent;
     padding-left: 0;
     padding-right: 0;
+    margin-top: 60px;
   }
 
   .content {
@@ -82,11 +87,20 @@
   }
 
   .aboutItems {
-    margin-top: 29px;
+    margin-top: 0px;
   }
 
   .aboutItem {
     padding-left: 0;
     padding-right: 0;
   }
+  .aboutItem h3 {
+    font-size: 20px;
+    font-weight: 600;
+  }
+  
+  .aboutItem p {
+    font-size: 16px;
+  }
+  
 }

@@ -62,3 +62,8 @@
   padding: 1px 22px;
   
 }
+@media screen and (max-width: 830px) {
+  .links a{
+    font-size: 20px;
+  }
+}

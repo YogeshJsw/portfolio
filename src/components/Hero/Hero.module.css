@@ -19,13 +19,11 @@
   z-index: 1;
 }
 
-/* Define the keyframes for the animation */
 @keyframes fadeInOut {
   0%, 100% { opacity: 0; }
   10%, 90% { opacity: 1; }
 }
 
-/* Add the animation to each letter */
 .animatedTitle span {
   font-size: 64px;
   font-weight: 900;
@@ -45,7 +43,6 @@
   transition: 5s;
 }
 
-/* Delay each letter's animation */
 .animatedTitle span:nth-child(1) { animation-delay: 0s; }
 .animatedTitle span:nth-child(2) { animation-delay: 0.2s; }
 .animatedTitle span:nth-child(3) { animation-delay: 0.4s; }
@@ -138,13 +135,14 @@
 --color-secondary: #3d2068; */
 
 .bottomBlur {
+  
   position: absolute;
   width: 70vw;
   height: 50vw;
   min-width: 350px;
   min-width: 250px;
   top: 246px;
-  right: -25vw;
+  right: 0vw;
   border-radius: 764px;
   background:rgba(45, 34, 79, 0.7);
   filter: blur(100px);
@@ -152,6 +150,25 @@
 }
 
 @media screen and (max-width: 830px) {
+  
+  .description {
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 36px;
+  }
+  .title {
+    margin-bottom: 0px;
+    margin-top: 10px;
+    font-size: 32px;
+  }
+  .animatedTitle span {
+    margin-bottom: 0px;
+    margin-top: 10px;
+    font-size: 32px;
+  }
+  .heroImg {
+    width: 40%;
+  }
   .container {
     flex-direction: column-reverse;
   }

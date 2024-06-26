@@ -7,7 +7,9 @@ import { getImageUrl } from "../../utils";
 
 export const Experience = () => {
   return (
-    <section className={styles.container} id="experience">
+    <>
+    <div id="experience" style={{marginBottom:"100px"}}></div>
+    <section className={styles.container} >
       <h2 className={styles.title}>Skills</h2>
       <div className={styles.content}>
 
@@ -48,5 +50,6 @@ export const Experience = () => {
         </ul>
       </div>
     </section>
+    </>
   );
 };
