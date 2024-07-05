@@ -8,11 +8,19 @@
     "source": "https://github.com/YogeshJsw/fitness"
   },
   {
+    "title": "Classic Sudoku Game",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an Android Sudoku application, featuring a solver using recursion and backtracking algorithms.",
+    "skills": ["Kotlin", "XML","Recursion","Backtracking","DSA"],
+    "demo": "https://my-personalbucket.s3.ap-south-1.amazonaws.com/sudoku.png",
+    "source": "https://github.com/YogeshJsw/sudoku"
+  },
+  {
     "title": "QuickNews",
     "imageSrc": "projects/project.png",
     "description": "Integrated Newsdata.io API to fetch and display real-time news data.Displaying news for different categories such as Sports, Technology, Science, etc.",
     "skills": ["React.js", "HTML", "CSS","Bootstrap"],
-    "demo": "https://main--unique-fudge-9b64f9.netlify.app",
+    "demo": "https://main--quick-daily-news.netlify.app",
     "source": "https://github.com/YogeshJsw/QuickNews"
   }
 ]
