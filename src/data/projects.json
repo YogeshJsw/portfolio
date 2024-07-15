@@ -22,5 +22,13 @@
     "skills": ["React.js", "HTML", "CSS","Bootstrap"],
     "demo": "https://main--quick-daily-news.netlify.app",
     "source": "https://github.com/YogeshJsw/QuickNews"
+  },
+  {
+    "title": "Checkers Game",
+    "imageSrc": "projects/project.png",
+    "description": "Developed checkers game with a feature of playing against an AI opponent using Alpha-Beta pruning algorithm.",
+    "skills": ["Pygame","Artificial Intelligence","Python"],
+    "demo": "https://my-personalbucket.s3.ap-south-1.amazonaws.com/checkers.png",
+    "source": "https://github.com/YogeshJsw/Checkers"
   }
 ]
