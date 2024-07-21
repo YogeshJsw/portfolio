@@ -1,11 +1,11 @@
 [
   {
-    "title": "MyFitness-Home Workout",
+    "title": "SmartBot AI",
     "imageSrc": "projects/project.png",
-    "description": "Developed an Android fitness application from scratch, combining video tutorials for each exercise with live chat and video call interactions between users and trainers.",
-    "skills": ["Kotlin", "Firebase", "XML"],
-    "demo": "https://my-personalbucket.s3.ap-south-1.amazonaws.com/MyFitness_Demo.mov",
-    "source": "https://github.com/YogeshJsw/fitness"
+    "description": "Developed an AI ChatBot app using Kotlin and Jetpack Compose, integrating Google Gemini API for AI responses.",
+    "skills": ["Kotlin", "JetPack Compose","AI"],
+    "demo": "https://my-personalbucket.s3.ap-south-1.amazonaws.com/SmartBot_AI_demo.mov",
+    "source": "https://github.com/YogeshJsw/SmartBot-AI"
   },
   {
     "title": "Classic Sudoku Game",
@@ -14,6 +14,14 @@
     "skills": ["Kotlin", "XML","Recursion","Backtracking","DSA"],
     "demo": "https://my-personalbucket.s3.ap-south-1.amazonaws.com/sudoku.png",
     "source": "https://github.com/YogeshJsw/sudoku"
+  }
+  {
+    "title": "MyFitness-Home Workout",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an Android fitness application from scratch, combining video tutorials for each exercise with live chat and video call interactions between users and trainers.",
+    "skills": ["Kotlin", "Firebase", "XML"],
+    "demo": "https://my-personalbucket.s3.ap-south-1.amazonaws.com/MyFitness_Demo.mov",
+    "source": "https://github.com/YogeshJsw/fitness"
   },
   {
     "title": "QuickNews",
